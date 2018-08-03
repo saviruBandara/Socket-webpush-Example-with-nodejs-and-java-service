@@ -1,0 +1,22 @@
+{
+  "name": "Socket-webpush-Example with nodejs and java service",
+  "description": "update client with nodejs service when changes into java service",
+  "website": "https://github.com/socketio/chat-example",
+  "repository": "https://github.com/socketio/chat-example",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
